@@ -1,1 +1,1 @@
-# teenpati
+# TeenPatti
